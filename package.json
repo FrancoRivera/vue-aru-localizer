@@ -1,0 +1,27 @@
+{
+  "name": "vue-aru-localizer",
+  "version": "1.0.0",
+  "description": "Simple plugin for Vue js that helps you localize websites, inspired in vue-localizer and vue-multilingual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoRivera/vue-aru-localizer.git"
+  },
+  "keywords": [
+    "vue",
+    "localizer",
+    "multilingual",
+    "spanish",
+    "english",
+    "arrays"
+  ],
+  "author": "Franco Rivera (http://www.riverarivas.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoRivera/vue-aru-localizer/issues"
+  },
+  "homepage": "https://github.com/FrancoRivera/vue-aru-localizer#readme"
+}
